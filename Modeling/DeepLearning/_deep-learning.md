@@ -6,7 +6,6 @@
 - [[_types-of-nns]]
 - [[auc]]
 - [[confusion-matrix]]
-- [[l1-l2-regularization]]
 - [[_regularization]]
 - [[tuning-nn]]
 - [[vanishing-gradient]]
@@ -18,7 +17,6 @@
 [_types-of-nns]: types-of-nns/_types-of-nns.md "Types of NNs"
 [auc]: auc.md "AUC"
 [confusion-matrix]: confusion-matrix.md "Confusion Matrix"
-[l1-l2-regularization]: l1-l2-regularization.md "L1 L2 Regularization"
 [_regularization]: regularization/_regularization.md "Regularization"
 [tuning-nn]: tunning/tuning-nn.md "Tuning NNs"
 [vanishing-gradient]: vanishing-gradient.md "Vanishing Gradient"
