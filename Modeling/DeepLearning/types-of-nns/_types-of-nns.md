@@ -1,5 +1,11 @@
 # Types of NNs
 
+- The deep learning models in use today rely on things called **artificial neurons**.
+- These are math functions that receive inputs and sum them up to create an output.
+- In an **ANN**, each layer summarizes and feeds information to the next layer, ultimately producing a final output or prediction. During this process, the model derives the features itself.
+
+---
+
 - [[conv-nets]]
 - [[rnn]]
 
