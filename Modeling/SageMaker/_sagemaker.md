@@ -1,8 +1,10 @@
 # SageMaker
 
+## Amazon SageMaker is a **fully-managed service** used to **build**, **train** and **deploy** ML models at **any scale**
+
 ## Docs
 
-- [Sagemaker Docs, AWS](https://docs.aws.amazon.com/sagemaker/index.html)
+- [SageMaker Docs, AWS](https://docs.aws.amazon.com/sagemaker/index.html)
 
 ## Blog
 
