@@ -1,5 +1,7 @@
 # Problem Formulation
 
+## [Problem Formulation](https://evantage.gilmoreglobal.com/#/books/200-MLDWTS-11-EN-SG-E/cfi/139!/4/2@100:0.00)
+
 ## The fundamental goal of ML is to *generalize* beyond the data instances used to train models. You want to evaluate your model to estimate the quality of its predictions for data the model has not been trained on
 
 ## Skills out of this course
