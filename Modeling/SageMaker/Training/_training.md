@@ -1,5 +1,19 @@
 # Training
 
+## The goal of *[Model Training](https://evantage.gilmoreglobal.com/#/books/200-MLDWTS-11-EN-SG-E/cfi/255!/4/2@100:0.00)* is to create an accurate model that answers the business question correctly as often as you need it to or more
+
+- We need to us engineered data to create an accurate model that is capable of answering the business problem correct MOST of the time.
+- To get this kind of model, we need to select the appropriate algorithm.
+
+- Algorithms
+- Formatting data
+- Splitting data and cross-validation
+- Testing and validation techniques
+- Examples of testing and validation techniques
+- Model training concepts
+- Running training jobs
+- Demo 3: Create an Amazon SageMaker Training Job
+
 - [[blazing-text]]
 - [[deep-ar]]
 - [[factorization-machines]]
