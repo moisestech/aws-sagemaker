@@ -1,5 +1,9 @@
 # ML Pipeline
 
+- [Intro to ML Pipeline, Gilmore](https://evantage.gilmoreglobal.com/#/books/200-MLDWTS-11-EN-SG-E/cfi/33!/4/2@100:0.00)
+
+- [Intro to Amazon SageMaker, Gilmore](https://evantage.gilmoreglobal.com/#/books/200-MLDWTS-11-EN-SG-E/cfi/119!/4/2@100:0.00)
+
 ## **1.** Business Problem
 
 - You have to start with a business problem that might be able to be addressed by ML.
