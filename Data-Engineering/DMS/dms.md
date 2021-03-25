@@ -1,3 +1,0 @@
-# DMS
-
-## Database Migration Service
