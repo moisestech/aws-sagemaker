@@ -1,2 +1,0 @@
-
-# Glue Data
