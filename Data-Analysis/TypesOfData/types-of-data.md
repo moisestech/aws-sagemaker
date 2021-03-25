@@ -1,1 +1,0 @@
-# Types Of Data
